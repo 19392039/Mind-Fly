@@ -1,4 +1,4 @@
-# GRALP-MindSpore:基于 MindSpore 2x 的全流程开发
+# GRALP-MindSpore:基于 MindSpore 2.8 的全流程开发
 
 # GRALP-MindSpore
 
